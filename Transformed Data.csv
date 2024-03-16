@@ -1,0 +1,56 @@
+,Patient ID,Date of Birth,Age,Gender,Date of Diagnosis,Date of Death,Date of Last Follow-Up,Date of Admission,Date of Discharge,Disease Stage,Treatment Received,Comorbidities,Smoking Status,Family History,Vital Signs,Status,Time
+0,P-001,15-05-1990,32,Male,10-01-2022,,01-06-2022,10-01-2022,20-01-2022,Stage II,Surgery,Hypertension,Non-Smoker,None,120/80,0,142
+1,P-002,22-09-1975,47,Female,05-11-2022,20-03-2023,20-03-2023,05-11-2022,20-03-2023,Stage III,Chemotherapy,Diabetes,Former Smoker,Breast Cancer,130/70,1,135
+2,P-003,12-12-1988,33,Male,20-07-2022,,15-12-2023,20-07-2022,29-08-2023,Stage I,Observation,,Non-Smoker,None,115/75,0,513
+3,P-004,30-03-1965,56,Male,08-09-2022,05-01-2023,05-01-2023,08-09-2022,05-01-2023,Stage IV,Radiation Therapy,Hypertension,Smoker,None,140/90,1,119
+4,P-005,25-06-1980,41,Female,12-04-2023,,12-10-2023,12-04-2023,16-05-2023,Stage II,Surgery,,Non-Smoker,None,125/80,0,183
+5,P-006,10-08-1973,48,Male,05-12-2022,28-02-2023,28-02-2023,05-12-2022,28-02-2023,Stage III,Chemotherapy,Hypertension,Smoker,None,135/85,1,85
+6,P-007,18-02-1992,29,Female,30-09-2023,,30-09-2023,10-01-2023,23-04-2023,Stage I,Observation,,Non-Smoker,None,115/70,0,0
+7,P-008,03-11-1986,35,Male,15-08-2022,10-12-2023,10-12-2023,15-08-2022,10-12-2023,Stage II,Surgery,Diabetes,Non-Smoker,None,130/80,1,482
+8,P-009,28-04-1978,43,Female,20-03-2023,,30-09-2023,20-03-2023,26-07-2023,Stage III,Chemotherapy,Hypertension,Former Smoker,Lung Cancer,125/75,0,194
+9,P-010,09-10-1987,34,Male,10-06-2022,25-11-2023,25-11-2023,10-06-2022,25-11-2023,Stage IV,Radiation Therapy,,Smoker,None,145/95,1,533
+10,P-011,15-07-1995,26,Male,08-11-2023,,31-12-2023,08-11-2023,31-12-2023,Stage II,Surgery,,Non-Smoker,None,120/75,0,53
+11,P-012,20-01-1983,39,Female,05-08-2023,,05-02-2024,05-08-2023,09-12-2023,Stage III,Chemotherapy,Hypertension,Former Smoker,Breast Cancer,128/78,0,184
+12,P-013,03-12-1970,51,Male,25-10-2022,10-01-2023,10-01-2023,25-10-2022,10-01-2023,Stage IV,Radiation Therapy,Diabetes,Smoker,None,140/90,1,77
+13,P-014,08-05-1982,39,Female,15-06-2023,,19-11-2023,15-06-2023,26-08-2023,Stage I,Observation,,Non-Smoker,None,118/72,0,157
+14,P-015,20-09-1977,44,Male,20-05-2022,20-02-2023,20-02-2023,20-05-2022,20-02-2023,Stage III,Chemotherapy,Hypertension,Smoker,None,135/85,1,276
+15,P-016,12-03-1984,37,Female,28-02-2023,,28-12-2023,28-02-2023,18-09-2023,Stage II,Surgery,,Non-Smoker,None,123/76,0,303
+16,P-017,25-11-1993,28,Male,10-10-2023,,10-12-2023,10-10-2023,11-11-2023,Stage IV,Radiation Therapy,Hypertension,Non-Smoker,None,135/80,0,61
+17,P-018,02-07-1976,45,Female,01-07-2022,15-11-2023,15-11-2023,01-07-2022,15-11-2023,Stage II,Surgery,Diabetes,Smoker,None,132/78,1,502
+18,P-019,18-04-1981,40,Male,12-05-2023,,13-08-2023,12-05-2023,29-06-2023,Stage III,Chemotherapy,,Non-Smoker,None,122/74,0,93
+19,P-020,05-09-1994,27,Female,30-12-2024,,15-02-2024,30-01-2024,15-02-2024,Stage I,Observation,,Non-Smoker,None,120/72,0,-319
+20,P-021,15-01-1979,43,Male,20-04-2022,,27-10-2023,20-04-2022,29-11-2022,Stage IV,Radiation Therapy,Hypertension,Smoker,None,140/85,0,555
+21,P-022,23-08-1988,33,Female,25-01-2023,,19-01-2024,25-01-2023,13-03-2023,Stage II,Surgery,,Non-Smoker,None,125/78,0,359
+22,P-023,02-03-1997,25,Male,20-08-2023,,20-01-2024,20-08-2023,25-11-2023,Stage III,Chemotherapy,Diabetes,Non-Smoker,None,130/82,0,153
+23,P-007,18-02-1992,29,Female,30-09-2023,,10-12-2023,02-10-2023,10-11-2023,Stage III,Chemotherapy,,Non-Smoker,None,112/80,0,71
+24,P-024,12-06-1974,48,Female,15-09-2022,05-12-2023,05-12-2023,15-09-2022,05-12-2023,Stage IV,Radiation Therapy,Hypertension,Former Smoker,Lung Cancer,125/75,1,446
+25,P-025,18-10-1989,32,Male,05-07-2023,,07-12-2023,05-07-2023,09-01-2023,Stage II,Surgery,,Non-Smoker,None,128/78,0,155
+26,P-026,22-02-1972,49,Female,10-04-2023,,10-12-2023,10-04-2023,23-08-2023,Stage III,Chemotherapy,Diabetes,Former Smoker,Breast Cancer,122/72,0,244
+27,P-027,28-11-1996,26,Male,12-01-2024,,12-02-2024,12-01-2024,12-02-2024,Stage I,Observation,,Non-Smoker,None,120/74,0,31
+28,P-028,25-05-1971,50,Female,20-01-2023,,20-11-2023,20-01-2023,18-06-2023,Stage IV,Radiation Therapy,,Smoker,None,138/82,0,304
+29,P-029,30-09-1988,33,Male,10-08-2022,15-07-2023,15-07-2023,10-08-2022,15-07-2023,Stage II,Surgery,Hypertension,Non-Smoker,None,130/80,1,339
+30,P-030,12-11-1980,41,Female,25-03-2023,,25-09-2023,25-03-2023,29-04-2023,Stage III,Chemotherapy,,Smoker,None,128/75,0,184
+31,P-031,19-06-1975,47,Male,05-07-2022,20-02-2023,20-02-2023,05-07-2022,20-02-2023,Stage IV,Radiation Therapy,Hypertension,Former Smoker,Lung Cancer,135/85,1,230
+32,P-032,08-09-1983,38,Female,20-11-2023,,28-01-2024,20-11-2023,31-12-2023,Stage I,Observation,,Non-Smoker,None,120/78,0,69
+33,P-033,15-12-1970,51,Male,30-05-2022,,30-05-2023,30-05-2022,14-09-2022,Stage II,Surgery,Hypertension,Smoker,None,140/90,0,365
+34,P-034,03-02-1995,27,Female,12-10-2023,,18-12-2023,12-10-2023,19-11-2023,Stage III,Chemotherapy,Diabetes,Non-Smoker,None,122/74,0,67
+35,P-035,08-07-1979,42,Male,25-09-2023,,20-11-2023,25-09-2023,18-10-2023,Stage IV,Radiation Therapy,,Smoker,None,140/85,0,56
+36,P-036,15-03-1987,34,Female,30-01-2024,,13-02-2024,30-01-2024,13-02-2024,Stage II,Surgery,Hypertension,Non-Smoker,None,130/75,0,14
+37,P-037,25-08-1973,48,Male,15-06-2022,05-11-2023,05-11-2023,15-06-2022,05-11-2023,Stage III,Chemotherapy,Diabetes,Smoker,None,135/88,1,508
+38,P-038,05-04-1990,31,Female,20-11-2022,,20-12-2023,20-11-2022,27-02-2023,Stage I,Observation,,Non-Smoker,None,115/70,0,395
+39,P-039,12-09-1978,43,Male,10-09-2022,15-08-2023,15-08-2023,10-09-2022,15-08-2023,Stage II,Surgery,,Non-Smoker,None,125/78,1,339
+40,P-040,20-02-1984,37,Female,05-05-2023,,28-07-2023,05-05-2023,20-07-2023,Stage III,Chemotherapy,Hypertension,Smoker,None,130/80,0,84
+41,P-041,25-07-1971,50,Male,28-12-2022,20-08-2023,20-08-2023,28-12-2022,20-08-2023,Stage IV,Radiation Therapy,Diabetes,Non-Smoker,None,135/82,1,235
+42,P-042,03-11-1996,25,Female,05-08-2023,,04-09-2023,05-08-2023,04-09-2023,Stage I,Observation,,Non-Smoker,None,118/72,0,30
+43,P-043,10-06-1977,44,Male,10-03-2023,05-10-2023,05-10-2023,10-03-2023,05-10-2023,Stage II,Surgery,Hypertension,Smoker,None,135/85,1,209
+44,P-044,18-02-1992,29,Female,15-07-2022,,16-12-2023,15-07-2022,23-10-2023,Stage III,Chemotherapy,,Non-Smoker,None,122/78,0,519
+45,P-045,21-07-1988,33,Male,20-05-2023,,23-08-2023,20-05-2023,17-06-2023,Stage IV,Radiation Therapy,Diabetes,Smoker,None,140/88,0,95
+46,P-033,15-12-1970,52,Male,30-05-2022,,31-12-2023,02-08-2023,14-10-2023,Stage III,Chemotherapy,Hypertension,Smoker,None,122/89,0,580
+47,P-046,25-12-1974,48,Female,10-04-2022,12-09-2023,12-09-2023,10-04-2022,12-09-2023,Stage I,Observation,,Non-Smoker,None,120/78,1,520
+48,P-007,18-02-1992,29,Female,30-09-2023,01-02-2024,01-02-2024,01-12-2023,01-02-2024,Stage IV,Radiation Therapy,,Non-Smoker,None,100/72,1,124
+49,P-047,18-05-1978,43,Male,20-02-2023,,20-09-2023,20-02-2023,15-07-2023,Stage II,Surgery,Hypertension,Smoker,None,130/80,0,212
+50,P-048,02-09-1983,38,Female,28-11-2023,,24-01-2024,28-11-2023,30-12-2023,Stage III,Chemotherapy,Diabetes,Non-Smoker,None,125/74,0,57
+51,P-003,12-12-1988,33,Male,20-07-2022,,15-01-2024,20-12-2023,29-12-2023,Stage II,Surgery,,Non-Smoker,None,123/79,0,544
+52,P-049,10-04-1996,25,Male,10-02-2024,,15-02-2024,10-02-2024,15-02-2024,Stage IV,Radiation Therapy,,Smoker,None,140/85,0,5
+53,P-050,15-11-1971,50,Female,05-10-2023,,20-12-2023,05-10-2023,20-12-2023,Stage I,Observation,,Non-Smoker,None,118/72,0,76
+54,P-044,18-02-1992,29,Female,15-07-2022,10-02-2024,10-02-2024,15-01-2024,10-02-2024,Stage IV,Chemotherapy,,Non-Smoker,None,122/79,1,575
