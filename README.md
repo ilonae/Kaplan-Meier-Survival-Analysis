@@ -12,13 +12,13 @@ The dataset includes details such as patient demographics, dates of diagnosis, t
 - The dataset is loaded from a CSV file.
 - The data is preprocessed accordingly.
 - Kaplan-Meier survival analysis is performed in order to estimate the survival function for the dataset.
-- Calculate the survival probabilities over time using the Kaplan-Meier estimator.
-- Plot the result including the censored subjects.
+- Survival probabilities are calculated over time using the Kaplan-Meier estimator.
+- The result is plotted including the censored subjects.
 
 
 ### Bonus:
 
-- Conduct subgroup analyses by stratifying the data based on most relevant attributes and calculate survival probabilities for each subgroup. Justify your approach.
+- Conducting subgroup analyses by stratifying the data based on most relevant attributes and calculate survival probabilities for each subgroup. 
 
 
 ### Dataset Information:
